@@ -1,0 +1,1 @@
+open hospitaldb.sqli as hospital.db is currupted
